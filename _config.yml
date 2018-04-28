@@ -1,0 +1,33 @@
+﻿# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: وب سایت خلیل ناصری نسب
+author: خلیل ناصری نسب
+email: khalilnaserinassab@gmail.com
+keywords: "، asp.net,کامپیوتر، برنامه‌نویسی، جاوا، پی اچ پی، سی شارپ"
+copyright: "خلیل ناصری نسب"
+description: > 
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://naserinassab.ir" # the base hostname & protocol for your site
+twitter_username:
+github_username:  naserinassab
+
+favicon: "img/favicon.png"
+
+# Build settings
+markdown: kramdown
+kramdown:
+    coderay_line_numbers: 1
+encoding: utf-8
+timezone: Asia/Tehran
+
+gems:
+  - jekyll-sitemap
+#  - jalalidate - coderay
+  

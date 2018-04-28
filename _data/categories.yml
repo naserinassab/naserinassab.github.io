@@ -1,0 +1,13 @@
+- slug: general
+  
+  name: عمومی
+  
+  color: '#3498db'
+
+  
+
+- slug: programming
+  
+  name: برنامه نویسی
+  
+  color: '#1abc9c'
